@@ -59,8 +59,7 @@ plugins:
 author:
   name   : "Christopher Kuetsinya"
   avatar : "/assets/images/Headshot.jpeg"
-  bio    : "PhD in Statistics
-  Bowling Green State University"
+  bio    : "PhD in Statistics"
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
@@ -70,7 +69,7 @@ author:
    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/chriskuets"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
@@ -83,7 +82,7 @@ footer:
    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/chriskuets"
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
