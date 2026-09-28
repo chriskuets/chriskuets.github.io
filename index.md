@@ -19,7 +19,7 @@ I'm a PhD student studying Statistics at Bowling Green State University (BGSU) u
 - BS Actuarial Science, University of Energy and Natural Resources -- August 2018
 
 
-#### Interest
+#### Interests
 - Bayesian Nonparametrics
 - Interpretable Causal Inference
 - Statistical Computing
