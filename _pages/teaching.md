@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-### Bowling Green State University (Instructor of Record)
+**Bowling Green State University (Instructor of Record)**
 **Undergraduate Courses**
 - MATH 1310: Calculus and Analytic Geometry (Fall 2026)
 - MATH 2470: Fundamentals of Statistics (Spring 2026)
@@ -11,7 +11,7 @@ title: "Teaching"
 - MATH 1220: College Algebra (Fall 2023; Spring 2024) -- Co-instructor
 
 
-### Louisiana State University (Teaching Assistant)
+**Louisiana State University (Teaching Assistant)**
 **Undergraduate Courses**
 - EXST 3201: Statistical Analysis II (Spring 2022)
 - EXST 2201: Introduction to Statistical Analysis (Spring 2021; Fall 2021)
