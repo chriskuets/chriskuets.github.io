@@ -9,7 +9,6 @@ title: "Teaching"
 - MATH 2470: Fundamentals of Statistics (Spring 2026)
 - MATH 1150: Introduction to Statistics (Fall 2024; Spring 2025; Fall 2025)
 - MATH 1220: College Algebra (Fall 2023; Spring 2024) -- Co-instructor
-
 <br><br>
 
 **Louisiana State University (Teaching Assistant)** <br>
