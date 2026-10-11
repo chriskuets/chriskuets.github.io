@@ -6,6 +6,7 @@ title: "Publications"
 ## Submitted
 
 1. **Kuetsinya, C.**, & Ning, W. Approximate Empirical Likelihood-based Bayesian Additive Regression Trees (AEL-BART). Submitted to *Statistical Science*.
+2. Poku-Agyemang, K., & **Kuetsinya, C.** How Place and Habits Affect Life Expectancy: Evidence from U.S. Counties. Submitted to *Amity Business Review*
 
 ## Peer-Reviewed Publications
 
@@ -14,6 +15,7 @@ title: "Publications"
 
 ## Presentations
 
-1. *AI Innovation and Statistics Methodology*. Departmental Seminar, Bowling Green State University, 2024.
-2. *When does prescribed burn reduce Southern pine beetle spot incidence? A case study from the Bienville and Homochitto Forests in Mississippi*. 62nd Southern Forest Insect Work Conference, 2023.
-3. *Environmental variables explain differences in the population dynamics of southern pine beetle after prescribed burns in the Bienville and Homochitto National Forests in Mississippi*. Southeastern Entomology Conference, 2023.
+1. *Approximate Empirical Likelihood-based Bayesian Additive Regression Trees (AEL-BART)*. Graduate Student Seminar, Bowling Green State University, 2026.
+2. *AI Innovation and Statistics Methodology*. Departmental Seminar, Bowling Green State University, 2024.
+3. *When does prescribed burn reduce Southern pine beetle spot incidence? A case study from the Bienville and Homochitto Forests in Mississippi*. 62nd Southern Forest Insect Work Conference, 2023.
+4. *Environmental variables explain differences in the population dynamics of southern pine beetle after prescribed burns in the Bienville and Homochitto National Forests in Mississippi*. Southeastern Entomology Conference, 2023.
