@@ -6,12 +6,12 @@ title: "Publications"
 ## Submitted
 
 1. **Kuetsinya, C.**, & Ning, W. Approximate Empirical Likelihood-based Bayesian Additive Regression Trees (AEL-BART). Submitted to *Statistical Science*.
-2. Poku-Agyemang, K., & **Kuetsinya, C.** How Place and Habits Affect Life Expectancy: Evidence from U.S. Counties. Submitted to *Amity Business Review*
+2. Poku-Agyemang, K., & **Kuetsinya, C.** How Place and Habits Affect Life Expectancy: Evidence from U.S. Counties. Submitted to *Amity Business Review*.
 
 ## Peer-Reviewed Publications
 
 1. Enriquez, J.P., Salgado, H., **Kuetsinya, C.**, Lin, L.-H., & Gollub, E. (2024). Transformative Insights: Break Up with Salt (BUWS) Program's Short-Term Influence on Hypertension Risk Factors. *International Journal of Environmental Research and Public Health*, 21(3), 309. [[Paper]](https://doi.org/10.3390/ijerph21030309)
-2. Enriquez, J.P., Gollub, E., & **Kuetsinya, C.** (2024). Break-Up With Salt (BUWS), Community-Based Nutrition Education Supporting Hypertension Prevention and Management. *Current Developments in Nutrition*, 8. <!-- Add the DOI link here. If this is a meeting abstract, move it to a "Conference Abstracts" heading. -->
+2. Enriquez, J.P., Gollub, E., & **Kuetsinya, C.** (2024). Break-Up With Salt (BUWS), Community-Based Nutrition Education Supporting Hypertension Prevention and Management. *Current Developments in Nutrition*, 8. [[Article]](https://cdn.nutrition.org/article/S2475-2991(24)00378-0/fulltext)
 
 ## Presentations
 
