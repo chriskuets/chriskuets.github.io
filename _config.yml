@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate in Statistics, Bowling Green State University
 github_username: https://chriskuets.github.io
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,29 +58,18 @@ author:
   name: "Christopher Kuetsinya"
   avatar: "/assets/images/Headshot.jpeg"
   bio: "PhD Candidate in Statistics, Bowling Green State University"
-  location: "Bowling Green, Ohio"
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/Kuetsinya_CV.pdf"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:ckuetsinya@gmail.com"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"   # replace with your profile URL, or delete these 3 lines
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chriskuets"
-
+  
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:ckuetsinya@gmail.com"
+      url: "mailto:chris.kuetsinya@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chriskuets"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vQ3cpcMAAAAJ&hl=en/"
 
 defaults:
   # _posts
