@@ -13,6 +13,7 @@ My dissertation introduces **Approximate Empirical Likelihood BART (AEL-BART)**,
 
 I care a great deal about teaching. I have been instructor of record for Introduction to Statistics, Fundamentals of Statistics, and Calculus at BGSU, and in 2026 I received BGSU's **Graduate Excellence in Teaching Award**. Before graduate school in statistics, I studied actuarial science in Ghana, so I like helping students see how many directions a quantitative degree can take them.
 
+**I am on the academic job market for positions beginning in 2027.** My [CV is here](/assets/files/Kuetsinya_CV.pdf).
 
 ### News
 
