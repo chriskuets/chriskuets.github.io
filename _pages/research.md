@@ -1,12 +1,31 @@
 ---
-permalink: /research/
+layout: single
 title: "Research"
+permalink: /research/
+author_profile: true
+toc: true
+toc_label: "On this page"
 ---
-My research focuses on creating useful methods. I create methods that are scalable and accessible to practioners; equipping them to handle the complexities of real data. 
 
-Most of what I do revolves around interpretable matching methods for causal inference, as well as methodological and theoretical extensions to BART.
+Flexible models such as Bayesian additive regression trees (BART) are widely used for prediction and treatment-effect estimation. However, their computational convenience rests on a Gaussian error model. When data have heavy tails or outliers, as health and observational data often do, that assumption can distort both predictions and statements of uncertainty. My research develops methods that remain reliable when conventional distributional assumptions fail, and that are honest about what they cannot do.
 
-**On-going Projects**
-1. **Approximate Empirical Likelihood based Bayesian Additive Regression Trees (AEL-BART)**: Developing robust Bayesian tree ensemble methods for uncertainty quantification under non-Gaussian and heavy-tailed settings. 
-2. **Bayesian Causal Inference**: Investigating Bayesian nonparametric methods for causal effect estimation and heterogeneous treatment effects.
+## Dissertation: Robust Bayesian Tree Models
 
+**Approximate Empirical Likelihood BART (AEL-BART)**
+
+Empirical likelihood builds likelihood-type inference from estimating equations without a fully specified error distribution. Applied globally to BART, though, it cannot tell competing tree partitions apart. The key idea of AEL-BART is to **localize empirical likelihood within the terminal nodes of each tree**.
+
+*Kuetsinya, C., & Ning, W. Approximate Empirical Likelihood-based Bayesian Additive Regression Trees. Submitted to* Statistical Science.
+
+## Current and Future Directions
+
+- **Adaptive robustness.** Data-dependent robustness that responds to the observed tail heaviness and asymmetry, protecting against outliers when needed and recovering BART's efficiency when not.
+- **Calibrated uncertainty.** Sample-size-adaptive prior scaling to fix over-coverage, and locally adaptive conformal intervals that are narrower where prediction is easy and wider where it is hard.
+- **Robust causal inference.** Extending localized empirical likelihood to Bayesian causal forests for heterogeneous treatment effects.
+- **Sensitivity analysis for unmeasured confounding.** Benchmarking methods that combine E-values with negative controls.
+
+## Applied Collaboration
+
+- **Community nutrition and hypertension.** Statistical analysis for the Break Up with Salt program, published in the *International Journal of Environmental Research and Public Health* (2024).
+- **Southern Pine Beetle infestations.** As a statistical consultant at LSU, I worked with Dr. Todd D. Johnson and the USDA Forest Service to model infestation dynamics after prescribed burns in two Mississippi national forests. I presented this work at two regional conferences in 2023.
+- **Statistical consulting.** At LSU's Department of Experimental Statistics, I helped faculty and students across departments design and analyze studies using R, SAS, and Python.
