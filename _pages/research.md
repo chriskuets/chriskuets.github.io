@@ -5,21 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-Flexible models such as Bayesian additive regression trees (BART) are widely used for prediction and treatment-effect estimation. However, their computational convenience rests on a Gaussian error model. When data have heavy tails or outliers, as health and observational data often do, that assumption can distort both predictions and statements of uncertainty. My research develops methods that remain reliable when conventional distributional assumptions fail, and that are honest about what they cannot do.
+Flexible models such as Bayesian additive regression trees (BART) are widely used for prediction and treatment-effect estimation. However, their computational convenience rests on a Gaussian error model. When data have heavy tails or outliers, as health and observational data often do, that assumption can distort both predictions and statements of uncertainty. My research develops methods that remain reliable when conventional distributional assumptions fail.
 
 ## Dissertation: Robust Bayesian Tree Models
 
 **Approximate Empirical Likelihood BART (AEL-BART)**
 
 Empirical likelihood builds likelihood-type inference from estimating equations without a fully specified error distribution. Applied globally to BART, though, it cannot tell competing tree partitions apart. The key idea of AEL-BART is to **localize empirical likelihood within the terminal nodes of each tree**.
-
-## Current and Future Directions
-
-- **Adaptive robustness.** Data-dependent robustness that responds to the observed tail heaviness and asymmetry, protecting against outliers when needed and recovering BART's efficiency when not.
-- **Calibrated uncertainty.** Sample-size-adaptive prior scaling to fix over-coverage, and locally adaptive conformal intervals that are narrower where prediction is easy and wider where it is hard.
-- **Robust causal inference.** Extending localized empirical likelihood to Bayesian causal forests for heterogeneous treatment effects.
-- **Sensitivity analysis for unmeasured confounding.** Benchmarking methods that combine E-values with negative controls.
-- **AI in statistics education.** Evaluating how large language models perform in statistical instruction and how they can be integrated into courses responsibly.
 
 ## Applied Collaboration
 
