@@ -7,15 +7,6 @@ author_profile: true
 
 **2026 Graduate Excellence in Teaching Award**, Bowling Green State University
 
-## My Approach
-
-- **Concrete before formal.** Every topic opens with a problem students can reason about before they see any notation. Confidence intervals, for example, start with students estimating the share of red candies in a bag.
-- **Students work with real data.** On the first day, each class builds an anonymous dataset about itself. We return to it all semester to graph, fit regressions, and test hypotheses.
-- **Frequent, low-stakes checks.** Anonymous polls, exit tickets, and short quizzes show me early who is struggling, while there is still time to help.
-- **A room where it is safe to be wrong first.** Rotating group roles, early office hours built around low-stakes questions, and clear published learning objectives help students participate whether or not they arrive confident.
-
-My [teaching statement](/assets/files/Kuetsinya_Teaching_Statement.pdf) describes these practices in more detail.
-
 ## Courses Taught
 
 ### Bowling Green State University (Instructor of Record)
