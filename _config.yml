@@ -17,7 +17,7 @@ title: Christopher Kuetsinya
 email: chris.kuetsinya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate in Statistics, Bowling Green State University
-github_username: https://chriskuets.github.io
+github_username: chriskuets
 minimal_mistakes_skin: default
 search: false
 
@@ -58,6 +58,16 @@ author:
   name: "Christopher Kuetsinya"
   avatar: "/assets/images/Headshot.jpeg"
   bio: "PhD Candidate in Statistics, Bowling Green State University"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:chris.kuetsinya@gmail.com"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vQ3cpcMAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chriskuets"
   
 footer:
   links:
@@ -69,7 +79,10 @@ footer:
       url: "https://github.com/chriskuets"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=vQ3cpcMAAAAJ&hl=en/"
+      url: "https://scholar.google.com/citations?user=vQ3cpcMAAAAJ"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
@@ -97,3 +110,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
